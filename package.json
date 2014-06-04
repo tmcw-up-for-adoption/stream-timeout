@@ -1,0 +1,26 @@
+{
+  "name": "stream-timeout",
+  "version": "0.0.0",
+  "description": "a stream that sends a timeout when it doesn't receive new data",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/stream-timeout.git"
+  },
+  "keywords": [
+    "stream",
+    "timeout"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcw/stream-timeout/issues"
+  },
+  "homepage": "https://github.com/tmcw/stream-timeout",
+  "devDependencies": {
+    "tap": "~0.4.9"
+  }
+}
