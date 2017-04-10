@@ -1,5 +1,7 @@
 # stream-timeout
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/stream-timeout.svg)](https://greenkeeper.io/)
+
 [![build status](https://secure.travis-ci.org/tmcw/stream-timeout.png)](http://travis-ci.org/tmcw/stream-timeout)
 
 A stream that emits a timeout event if there's a large pause
